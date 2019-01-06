@@ -3,11 +3,13 @@ package com.example.master.newsapp.models;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
+import java.io.Serializable;
+
 /**
  * Created by Master on 29-Dec-18.
  */
 
-public class Source {
+public class Source implements Serializable{
 
     @SerializedName("id")
     @Expose

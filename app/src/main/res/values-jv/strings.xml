@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="username">Username</string>
+    <string name="password">Sandi</string>
+    <string name="btn_login">Mlebu</string>
+    <string name="not_register">Durung Kedaftar?</string>
+    <string name="register">Daftar Kene!</string>
+    <string name="login_here">Mlebu kene!</string>
+    <string name="already_have_account">Wes duwe akun?</string>
+    <string name="btn_register">Daftar</string>
+    <string name="cnf_password">Dibaleni</string>
+    <string name="btn_view">Delok</string>
+    <string name="btn_update">Anyari</string>
+    <string name="old_password">Sandi sue</string>
+    <string name="your_password">Sandi mu</string>
+    <string name="new_password">Sandi anyar</string>
+    <string name="delete">Hapus</string>
+    <string name="update">Anyari</string>
+
+
+
+
+    <string name="content_title">Anyari Aplikasi</string>
+    <string name="content_text">Ayo dianyari aplikasine!</string>
+    <string name="subtext">Pembaruan Aplikasi sudah tersedia </string>
+    <string name="send_notif">Kirim pemberitahuan</string>
+</resources>
